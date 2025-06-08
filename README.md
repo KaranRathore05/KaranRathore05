@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranRathore05&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=45&currStreakLabel=🔥+Current+Streak:+45+days&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=DSA+%7C+AI+Engineer+%7C+Full+Stack+Developer+%7C+BTech+Student;Current+Project:+Full+Stack+Development+%F0%9F%9A%80;Open+to+Internships+%7C+Learning+Everyday" alt="Typing SVG" />
 </p>
 
@@ -42,19 +46,7 @@
 
 ---
 
-### 📈 GitHub Contribution Streak (Manually Updated)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranRathore05&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=45&currStreakLabel=🔥+Current+Streak:+45+days&hide_border=true" />
-</p>
-
 <p align="center">
   🔥 <strong>Current Streak:</strong> 45 Days  
   <br>🏆 <strong>Highest Streak:</strong> 45 Days (So far!)
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranRathore05&layout=compact&theme=radical" />
 </p>
