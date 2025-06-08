@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hey there, I'm Karan BOSS!
+  👋 Hey there, I'm Karanpal Singh!
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ### 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,flask,react,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,mongodb,git,github,pandas" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/KaranRathore05"><img src="https://img.shields.io/github/followers/KaranRathore05?label=GitHub&style=social"></a>
-  <a href="https://www.linkedin.com/in/karanrathore05/"><img src="https://img.shields.io/badge/LinkedIn-KaranRathore05-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/karan-rathore-9a448a302/"><img src="https://img.shields.io/badge/LinkedIn-Karanpal%20Singh-blue?logo=linkedin"></a>
 </p>
 
 ---
