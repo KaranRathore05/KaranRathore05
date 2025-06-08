@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=DSA+Learner+%7C+AI+Engineer+%7C+Full+Stack+Developer;Current+Project:+Full+Stack+Development+%F0%9F%9A%80;Open+to+Internships+%7C+Learning+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=DSA+%7C+AI+Engineer+%7C+Full+Stack+Developer+%7C+BTech+Student;Current+Project:+Full+Stack+Development+%F0%9F%9A%80;Open+to+Internships+%7C+Learning+Everyday" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@
 ### 🧠 Current Focus
 
 - 📚 Practicing **Data Structures & Algorithms** on [LeetCode](https://github.com/KaranRathore05/100-Days-of-LeetCode)
-- 🤖 Exploring **Machine Learning** with Python libraries like:
+- 🤖 Exploring **Machine Learning** with Python libraries:
   - `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`
-- ⚙️ Building real-world **full stack web apps** using Node.js and MongoDB
+- ⚙️ Building real-world **Full Stack Web Apps** using Node.js and MongoDB
 
 ---
 
