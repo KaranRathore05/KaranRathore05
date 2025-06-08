@@ -39,14 +39,3 @@
   <a href="https://github.com/KaranRathore05"><img src="https://img.shields.io/github/followers/KaranRathore05?label=GitHub&style=social"></a>
   <a href="https://www.linkedin.com/in/karan-rathore-9a448a302/"><img src="https://img.shields.io/badge/LinkedIn-Karanpal%20Singh-blue?logo=linkedin"></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranRathore05&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  🔥 <strong>Current Streak:</strong> 45 Days  
-  <br>🏆 <strong>Highest Streak:</strong> 45 Days (So far!)
-</p>
