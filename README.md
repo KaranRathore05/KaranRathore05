@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=IT+Student+%7C+Web+Dev+%7C+AI+Explorer;Hackathon+Builder+%7C+DSA+Lover+%7C+Gym+and+Code;Building+Mediscan+%F0%9F%92%8A;Open+to+Internships+%7C+Learning+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=DSA+Learner+%7C+AI+Engineer+%7C+Full+Stack+Developer;Current+Project:+Full+Stack+Development+%F0%9F%9A%80;Open+to+Internships+%7C+Learning+Everyday" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 ### 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,mongodb,git,github,pandas" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,nodejs,mongodb,cplusplus" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Learning:+OpenAI+API+%7C+OCR+%7C+TTS+%7C+FullStack+Projects;Current+Project:+Mediscan+%F0%9F%A4%96" alt="typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Languages:+Java+%7C+C%2B%2B+%7C+Python" alt="typing SVG" />
 </p>
 
 ---
@@ -28,12 +28,8 @@
 
 - 📚 Practicing **Data Structures & Algorithms** on [LeetCode](https://github.com/KaranRathore05/100-Days-of-LeetCode)
 - 🤖 Exploring **Machine Learning** with Python libraries like:
-  - `scikit-learn`
-  - `pandas`
-  - `numpy`
-  - `matplotlib`
-  - `seaborn`
-- 🧪 Building mini-projects and notebooks to understand ML fundamentals
+  - `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`
+- ⚙️ Building real-world **full stack web apps** using Node.js and MongoDB
 
 ---
 
