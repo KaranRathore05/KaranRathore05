@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=DSA+%7C+AI+Engineer+%7C+Full+Stack+Developer+%7C+BTech+Student;Current+Project:+Full+Stack+Development+%F0%9F%9A%80;Open+to+Internships+%7C+Learning+Everyday" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+
 
 ---
 
