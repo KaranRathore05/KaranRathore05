@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Karanpal Singh</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=150&text=Karanpal%20Singh&fontSize=44&fontColor=E2E8F0&fontAlign=50&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=ML+Summer+Intern+%40+IIT+Tirupati;ML+Intern+%40+IIT+Hyderabad;Intern+%40+IIT+Goa&font=JetBrains%20Mono&center=true&width=520&height=35&color=58A6FF&vCenter=true&size=20&pause=1200&background=00000000"/>
 
@@ -68,7 +68,11 @@ I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranRathore05&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranRathore05&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9"/>
+<br/><br/>
+
+**Live Contribution Heatmap**
+
+<img src="https://ghchart.rshah.org/58A6FF/KaranRathore05" width="100%"/>
 
 </div>
 
@@ -78,7 +82,7 @@ I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KaranRathore05&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KaranRathore05&theme=onedark&row=2&column=4&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -96,5 +100,9 @@ I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML 
 <br/>
 
 <div align="center">
-<sub>Thanks for stopping by — always open to collaborating on ML research or full-stack projects.</sub>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;Always+open+to+ML+or+full-stack+collaborations.&font=JetBrains%20Mono&center=true&width=520&height=30&color=8B949E&vCenter=true&size=16&pause=1500&background=00000000"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=80&animation=fadeIn" width="100%"/>
+
 </div>
