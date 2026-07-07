@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=ML+Research+Intern+%40+IIT+Tirupati;ML+Intern+%40+IIT+Hyderabad;Intern+%40+IIT+Goa;Full-Stack+Developer;MERN+Stack+Developer;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1400&color=58A6FF&center=true&vCenter=true&width=1000&height=50&lines=Summer+ML+Intern+%40IIT+Tirupati+%7C+%40IIT+Hyderabad+%7C+Full-Stack+Intern+%40IIT+Goa;Full-Stack+Development+%7C+MERN+Stack+Engineer;ML+Engineer+%7C+ACE+Hack+5.0+Winner"/>
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🎓 A skilled B.Tech Computer Science student with expertise in **Java, Python, and Web Development**
-- 🧩 Strong foundation in **Data Structures & Algorithms (DSA)**, with experience solving complex problems using optimized approaches
-- 🚀 Proficient in building scalable, production-ready full-stack apps using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 🤖 Hands-on experience in **AI & Machine Learning**, working on data-driven models and intelligent systems
-- 🏆 **ACE Hack 5.0 Winner**, demonstrating strong problem-solving and development skills
-- 🌱 Enthusiastic about technology, with a focus on continuous learning and growth in software development, AI, and ML
+- A skilled B.Tech Computer Science student with expertise in **Java, Python, and Web Development**
+- Strong foundation in **Data Structures & Algorithms (DSA)**, with experience solving complex problems using optimized approaches
+- Proficient in building scalable, production-ready full-stack apps using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- Hands-on experience in **AI & Machine Learning**, working on data-driven models and intelligent systems
+- **ACE Hack 5.0 Winner**, demonstrating strong problem-solving and development skills
+- Enthusiastic about technology, with a focus on continuous learning and growth in software development, AI, and ML
 
 ---
 
@@ -29,26 +29,19 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,js,python,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp&theme=dark" />
 
 **Frameworks & Web**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind&theme=dark" />
 
 **AI / Machine Learning**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,jupyter&theme=dark" />
-<img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF"/>
-<img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/OpenAI%20%2F%20AI%20Tools-161B22?style=flat-square&logo=openai&logoColor=ffffff"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel&theme=dark" />
-<img src="https://img.shields.io/badge/Overleaf-161B22?style=flat-square&logo=overleaf&logoColor=47A141"/>
-<img src="https://img.shields.io/badge/OAuth-161B22?style=flat-square&logo=auth0&logoColor=EB5424"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,vscode,npm&theme=dark" />
 
 </div>
 
@@ -56,40 +49,11 @@
 
 ### 🎯 Current Focus
 
-- 🔭 Researching adversarial time-series and video anomaly detection at IIT Tirupati
-- 📚 Practicing Data Structures & Algorithms across LeetCode, Codeforces, and CodeChef
-- 🧠 Exploring applied ML with `PyTorch`, `scikit-learn`, `pandas`, and `numpy`
-- ⚙️ Building production-grade full-stack apps with the MERN stack
-- 🌐 Running Web Dev, DSA & System Design workshops as a Google Student Ambassador
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KaranRathore05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranRathore05&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranRathore05&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-<br/><br/>
-
-**🔥 Live Contribution Heatmap**
-
-<img src="https://ghchart.rshah.org/58A6FF/KaranRathore05" width="100%"/>
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KaranRathore05&theme=onedark&row=2&column=4&margin-w=10&margin-h=10"/>
-
-</div>
+- Researching adversarial time-series and video anomaly detection at IIT Tirupati
+- Practicing Data Structures & Algorithms across LeetCode, Codeforces, and CodeChef
+- Exploring applied ML with PyTorch, scikit-learn, and computer vision tools
+- Building production-grade full-stack apps with the MERN stack
+- Running Web Dev, DSA & System Design workshops as a Google Student Ambassador
 
 ---
 
@@ -115,7 +79,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!+%F0%9F%98%8A;Always+open+to+ML+or+full-stack+collaborations+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Always+open+to+ML+or+full-stack+collaborations."/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:2563EB,100:0F172A&animation=fadeIn" width="100%"/>
