@@ -3,11 +3,23 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1400&color=58A6FF&center=true&vCenter=true&width=1000&height=50&lines=Summer+ML+Intern+%40IIT+Tirupati+%7C+%40IIT+Hyderabad+%7C+Full-Stack+Intern+%40IIT+Goa;Full-Stack+Development+%7C+MERN+Stack+Engineer;ML+Engineer+%7C+ACE+Hack+5.0+Winner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1300&color=58A6FF&center=true&vCenter=true&width=1100&height=50&lines=ML+Intern+%40+IIT+Hyderabad+and+%40+IIT+Tirupati;Full-Stack+Developer+%7C+MERN+Stack+Intern+%40+IIT+Goa;ACE+Hack+5.0+Winner+%7C+Google+Student+Ambassador;ML+%2F+AI+Engineer"/>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=KaranRathore05&label=Profile%20Views&color=161B22&style=flat-square"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/karanpalsingh05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:karan0797s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/Karan_rathore9"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://karan-portfolio-ashy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/KaranRathore05"><img src="https://img.shields.io/github/followers/KaranRathore05?label=Follow&style=for-the-badge&logo=github&color=181717"/></a>
 </p>
 
 ---
@@ -37,8 +49,14 @@
 
 **AI / Machine Learning**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 
+<p align="center">
+  <img height="58" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" />
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" />
+</p>
 **Tools & Platforms**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,vscode,npm&theme=dark" />
@@ -67,16 +85,6 @@
 | 📈 **300+ Contributions** | Consistent daily coding habit over the past 12 months |
 
 ---
-
-### 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/karanpalsingh05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:karan0797s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/Karan_rathore9"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://karan-portfolio-ashy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/KaranRathore05"><img src="https://img.shields.io/github/followers/KaranRathore05?label=Follow&style=for-the-badge&logo=github&color=181717"/></a>
-</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Always+open+to+ML+or+full-stack+collaborations."/>
