@@ -1,74 +1,70 @@
-<div align="center">
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:38BDF8&text=Karanpal%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=150&text=Karanpal%20Singh&fontSize=44&fontColor=E2E8F0&fontAlign=50&fontAlignY=45&animation=fadeIn" width="100%"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=ML+Research+Intern+%40+IIT+Tirupati;ML+Intern+%40+IIT+Hyderabad;Intern+%40+IIT+Goa;Full-Stack+Developer;MERN+Stack+Developer;Open+Source+Enthusiast"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=ML+Summer+Intern+%40+IIT+Tirupati;ML+Intern+%40+IIT+Hyderabad;Intern+%40+IIT+Goa&font=JetBrains%20Mono&center=true&width=520&height=35&color=58A6FF&vCenter=true&size=20&pause=1200&background=00000000"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MERN+Stack+Developer;Machine+Learning+Engineer&font=JetBrains%20Mono&center=true&width=520&height=35&color=8B949E&vCenter=true&size=18&pause=1200&background=00000000"/>
-
-<br/>
-
-<a href="https://karan-portfolio-ashy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=58A6FF"/></a>
-<a href="https://www.linkedin.com/in/karanpalsingh05/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF"/></a>
-<a href="https://x.com/Karan_rathore9"><img src="https://img.shields.io/badge/X-161B22?style=flat-square&logo=x&logoColor=58A6FF"/></a>
-<a href="mailto:karan0797s@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=58A6FF"/></a>
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=KaranRathore05&label=Profile%20Views&color=161B22&style=flat-square"/>
-
-</div>
-
----
-
-### About
-
-I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML Research Intern at IIT Tirupati, where I build adversarial pipelines for time-series and video anomaly detection. Alongside research, I work as a full-stack developer, mainly on the MERN stack, and have shipped a few production-grade web apps including a blockchain-based crowdfunding platform that won ACE Hack 5.0 (1st out of 200+ teams).
-
-- Researching adversarial time-series and video anomaly detection
-- Building full-stack products end-to-end — from architecture to deployment
-- Google Student Ambassador 2026, running workshops on Web Dev, DSA, and System Design
-- Solved 200+ DSA problems across LeetCode, Codeforces, CodeChef, and HackerRank
+</p>
 
 ---
 
-### Tech Stack
+### 🧑‍💻 About Me
+
+- 🎓 A skilled B.Tech Computer Science student with expertise in **Java, Python, and Web Development**
+- 🧩 Strong foundation in **Data Structures & Algorithms (DSA)**, with experience solving complex problems using optimized approaches
+- 🚀 Proficient in building scalable, production-ready full-stack apps using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 🤖 Hands-on experience in **AI & Machine Learning**, working on data-driven models and intelligent systems
+- 🏆 **ACE Hack 5.0 Winner**, demonstrating strong problem-solving and development skills
+- 🌱 Enthusiastic about technology, with a focus on continuous learning and growth in software development, AI, and ML
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
-
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp&theme=dark" />
 
 **Frameworks & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind&theme=dark" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=MERN+%7C+Next.js+%7C+Tailwind+CSS" alt="typing"/>
-
-**ML / Data**
-
-<img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Matplotlib-161B22?style=flat-square&logo=plotly&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=58A6FF"/>
+**AI / Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,jupyter&theme=dark" />
+<img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/OpenAI%20%2F%20AI%20Tools-161B22?style=flat-square&logo=openai&logoColor=ffffff"/>
 
 **Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vercel&theme=dark" />
+<img src="https://img.shields.io/badge/Overleaf-161B22?style=flat-square&logo=overleaf&logoColor=47A141"/>
+<img src="https://img.shields.io/badge/OAuth-161B22?style=flat-square&logo=auth0&logoColor=EB5424"/>
 
 </div>
 
 ---
 
-### Current Focus
+### 🎯 Current Focus
 
-- Researching adversarial time-series and video anomaly detection at IIT Tirupati
-- Practicing Data Structures & Algorithms across LeetCode, Codeforces, and CodeChef
-- Exploring applied ML with `scikit-learn`, `pandas`, `numpy`, and `matplotlib`
-- Building production full-stack apps with the MERN stack
+- 🔭 Researching adversarial time-series and video anomaly detection at IIT Tirupati
+- 📚 Practicing Data Structures & Algorithms across LeetCode, Codeforces, and CodeChef
+- 🧠 Exploring applied ML with `PyTorch`, `scikit-learn`, `pandas`, and `numpy`
+- ⚙️ Building production-grade full-stack apps with the MERN stack
+- 🌐 Running Web Dev, DSA & System Design workshops as a Google Student Ambassador
 
 ---
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
@@ -79,7 +75,7 @@ I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML 
 
 <br/><br/>
 
-**Live Contribution Heatmap**
+**🔥 Live Contribution Heatmap**
 
 <img src="https://ghchart.rshah.org/58A6FF/KaranRathore05" width="100%"/>
 
@@ -87,7 +83,7 @@ I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML 
 
 ---
 
-### Trophies
+### 🏆 Trophies
 
 <div align="center">
 
@@ -97,21 +93,29 @@ I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML 
 
 ---
 
-### Achievements
+### 🏅 Achievements
 
 | | |
 |---|---|
-| **ACE Hack 5.0 Winner** | Fundify Campus ranked #1 among 200+ teams — only blockchain-based winning entry |
-| **Google Student Ambassador 2026** | Organizing Web Dev, DSA & System Design workshops |
-| **200+ DSA Problems** | Solved across LeetCode, Codeforces, CodeChef & HackerRank — Top 15% on LeetCode |
-| **300+ Contributions** | Consistent daily coding habit over the past 12 months |
+| 🥇 **ACE Hack 5.0 Winner** | Fundify Campus ranked #1 among 200+ teams — only blockchain-based winning entry |
+| 🌐 **Google Student Ambassador 2026** | Organizing Web Dev, DSA & System Design workshops |
+| 🧩 **200+ DSA Problems** | Solved across LeetCode, Codeforces, CodeChef & HackerRank — Top 15% on LeetCode |
+| 📈 **300+ Contributions** | Consistent daily coding habit over the past 12 months |
 
 ---
 
-<div align="center">
+### 🤝 Connect With Me
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;Always+open+to+ML+or+full-stack+collaborations.&font=JetBrains%20Mono&center=true&width=520&height=30&color=8B949E&vCenter=true&size=16&pause=1500&background=00000000"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/karanpalsingh05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:karan0797s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/Karan_rathore9"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://karan-portfolio-ashy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/KaranRathore05"><img src="https://img.shields.io/github/followers/KaranRathore05?label=Follow&style=for-the-badge&logo=github&color=181717"/></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=80&animation=fadeIn" width="100%"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!+%F0%9F%98%8A;Always+open+to+ML+or+full-stack+collaborations+%F0%9F%9A%80"/>
+</p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:2563EB,100:0F172A&animation=fadeIn" width="100%"/>
