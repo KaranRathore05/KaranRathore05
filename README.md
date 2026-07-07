@@ -17,9 +17,9 @@
 
 </div>
 
-<br/>
+---
 
-## About
+### About
 
 I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML Research Intern at IIT Tirupati, where I build adversarial pipelines for time-series and video anomaly detection. Alongside research, I work as a full-stack developer, mainly on the MERN stack, and have shipped a few production-grade web apps including a blockchain-based crowdfunding platform that won ACE Hack 5.0 (1st out of 200+ teams).
 
@@ -28,21 +28,21 @@ I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML 
 - Google Student Ambassador 2026, running workshops on Web Dev, DSA, and System Design
 - Solved 200+ DSA problems across LeetCode, Codeforces, CodeChef, and HackerRank
 
-<br/>
+---
 
-## Tech Stack
+### Tech Stack
 
 <div align="center">
 
-<br/>
-
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css&theme=dark" />
 
 **Frameworks & Web**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind&theme=dark" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=MERN+%7C+Next.js+%7C+Tailwind+CSS" alt="typing"/>
 
 **ML / Data**
 
@@ -57,9 +57,18 @@ I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML 
 
 </div>
 
-<br/>
+---
 
-## GitHub Analytics
+### Current Focus
+
+- Researching adversarial time-series and video anomaly detection at IIT Tirupati
+- Practicing Data Structures & Algorithms across LeetCode, Codeforces, and CodeChef
+- Exploring applied ML with `scikit-learn`, `pandas`, `numpy`, and `matplotlib`
+- Building production full-stack apps with the MERN stack
+
+---
+
+### GitHub Analytics
 
 <div align="center">
 
@@ -76,9 +85,9 @@ I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML 
 
 </div>
 
-<br/>
+---
 
-## Trophies
+### Trophies
 
 <div align="center">
 
@@ -86,9 +95,9 @@ I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML 
 
 </div>
 
-<br/>
+---
 
-## Achievements
+### Achievements
 
 | | |
 |---|---|
@@ -97,7 +106,7 @@ I'm a Computer Engineering student at BKBIET Pilani, currently working as an ML 
 | **200+ DSA Problems** | Solved across LeetCode, Codeforces, CodeChef & HackerRank — Top 15% on LeetCode |
 | **300+ Contributions** | Consistent daily coding habit over the past 12 months |
 
-<br/>
+---
 
 <div align="center">
 
